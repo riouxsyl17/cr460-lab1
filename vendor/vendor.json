@@ -1,0 +1,85 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "gNO0JNpLzYOdInGeq7HqMZUzx9M=",
+			"path": "github.com/armon/go-radix",
+			"revision": "4239b77079c7b5d1243b7b4736304ce8ddb6f0f2",
+			"revisionTime": "2016-01-15T23:47:25Z"
+		},
+		{
+			"checksumSHA1": "ta8SSP0z1c4mWWiJc9srvj2WirE=",
+			"path": "github.com/bgentry/speakeasy",
+			"revision": "a1ccbf2c40dfc8ce514b5c5c6e6d1429ea6880da",
+			"revisionTime": "2016-08-13T19:06:34Z"
+		},
+		{
+			"checksumSHA1": "0tLUaPu821o4eu5/hQ0wVUQifPU=",
+			"path": "github.com/gin-gonic/gin",
+			"revision": "f931d1ea80ae95a6fc739213cdd9399bd2967fb6",
+			"revisionTime": "2016-05-25T12:45:45Z"
+		},
+		{
+			"checksumSHA1": "UsILDoIB2S7ra+w2fMdb85mX3HM=",
+			"path": "github.com/gin-gonic/gin/binding",
+			"revision": "f931d1ea80ae95a6fc739213cdd9399bd2967fb6",
+			"revisionTime": "2016-05-25T12:45:45Z"
+		},
+		{
+			"checksumSHA1": "PHv9FNb7YavJWtAHcY6ZgXmkmHs=",
+			"path": "github.com/gin-gonic/gin/render",
+			"revision": "f931d1ea80ae95a6fc739213cdd9399bd2967fb6",
+			"revisionTime": "2016-05-25T12:45:45Z"
+		},
+		{
+			"checksumSHA1": "5MVpi9U1WCrzZ1VMMn61Fc+trE0=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "c3cefd437628a0b7d31b34fe44b3a7a540e98527",
+			"revisionTime": "2016-07-27T17:26:17Z"
+		},
+		{
+			"checksumSHA1": "b0T0Hzd+zYk+OCDTFMps+jwa/nY=",
+			"path": "github.com/manucorporat/sse",
+			"revision": "ee05b128a739a0fb76c7ebd3ae4810c1de808d6d",
+			"revisionTime": "2016-01-26T18:01:36Z"
+		},
+		{
+			"checksumSHA1": "xZuhljnmBysJPta/lMyYmJdujCg=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "66b8e73f3f5cda9f96b69efd03dd3d7fc4a5cdb8",
+			"revisionTime": "2016-08-06T12:27:52Z"
+		},
+		{
+			"checksumSHA1": "gYJ9wxByTP76gEvYQ6nMhfx04RI=",
+			"path": "github.com/mitchellh/cli",
+			"revision": "2b05dd12fcaee6566e0a8a256c7996d7038ddf6c",
+			"revisionTime": "2016-10-06T23:38:49Z"
+		},
+		{
+			"checksumSHA1": "9jjO5GjLa0XF/nfWihF02RoH4qc=",
+			"path": "golang.org/x/net/context",
+			"revision": "4971afdc2f162e82d185353533d3cf16188a9f4e",
+			"revisionTime": "2016-11-15T21:05:04Z"
+		},
+		{
+			"checksumSHA1": "u4rtURsE9Cn7TK4OPwH8axBMK6M=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "8d1157a435470616f975ff9bb013bea8d0962067",
+			"revisionTime": "2016-10-06T02:47:49Z"
+		},
+		{
+			"checksumSHA1": "39V1idWER42Lmcmg2Uy40wMzOlo=",
+			"path": "gopkg.in/go-playground/validator.v8",
+			"revision": "5f57d2222ad794d0dffb07e664ea05e2ee07d60c",
+			"revisionTime": "2016-07-18T13:41:25Z"
+		},
+		{
+			"checksumSHA1": "12GqsW8PiRPnezDDy0v4brZrndM=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "a5b47d31c556af34a302ce5d659e6fea44d90de0",
+			"revisionTime": "2016-09-28T15:37:09Z"
+		}
+	],
+	"rootPath": "github.com/patricklecuyer/cr460-lab1"
+}
