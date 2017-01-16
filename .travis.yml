@@ -1,5 +1,7 @@
 language: go
 
+services: mongodb
+
 
 before_install:
   - go get github.com/mattn/goveralls
