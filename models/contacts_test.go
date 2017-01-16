@@ -54,7 +54,7 @@ var userUpdateTests = []struct {
 	}, {
 		Contact{FirstName: "Patrick", LastName: "Lecuyer", Email: "patate2@mailinator.com"},
 		Contact{FirstName: "Patrick", LastName: "Lécuyer", Email: "kapou@mailinator.com"},
-		true,
+		false,
 	}, {
 		Contact{FirstName: "Patrick", LastName: "Lecuyer", Email: "patate3@mailinator.com"},
 		Contact{FirstName: "Patrick", LastName: "Lécuyer", Email: "patate3@mailinator.com"},
