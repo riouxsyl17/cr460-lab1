@@ -4,6 +4,7 @@ import (
 	"github.com/mitchellh/cli"
 	"github.com/patricklecuyer/cr460-lab1/config"
 	"github.com/patricklecuyer/cr460-lab1/router"
+	"github.com/patricklecuyer/planifio-api/models"
 )
 
 // CR460ServerCommand Server API Command
@@ -13,6 +14,7 @@ type CR460ServerCommand struct{}
 func (c CR460ServerCommand) Run(args []string) int {
 	config.LoadConfig()
 	r := router.Init()
+	models.InitValidators()
 	r.Run(":" + config.AppConfig.Port)
 	return 0
 }
